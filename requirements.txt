@@ -3,3 +3,4 @@
 # process, which may cause wedges in the gate later.
 
 lxml>=2.3
+python-dracclient>=0.0.4
